@@ -32,3 +32,18 @@
 ㄗㄨㄧ zui   <=>  ㄗㄨㄟ zuei
 ㄘㄨㄧ tsui  <=>  ㄘㄨㄟ tsuei
 ㄙㄨㄧ sui   <=>  ㄙㄨㄟ suei
+
+ㄉㄦ der     <=>  ㄉㄜ de
+ㄊㄦ ter     <=>  ㄊㄜ te
+ㄋㄦ ner     <=>  ㄋㄜ ne
+ㄌㄦ ler     <=>  ㄌㄜ le
+ㄍㄦ ger     <=>  ㄍㄜ ge
+ㄎㄦ ker     <=>  ㄎㄜ ke
+ㄏㄦ her     <=>  ㄏㄜ he
+ㄓㄦ jher    <=>  ㄓㄜ jhe
+ㄔㄦ cher    <=>  ㄔㄜ che
+ㄕㄦ sher    <=>  ㄕㄜ she
+ㄖㄦ rer     <=>  ㄖㄜ re
+ㄗㄦ zer     <=>  ㄗㄜ ze
+ㄘㄦ tser    <=>  ㄘㄜ tse
+ㄙㄦ ser     <=>  ㄙㄜ se

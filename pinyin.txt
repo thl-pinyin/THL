@@ -78,6 +78,7 @@
 ㄉㄢ      dan       dan       dan       dan       tan
 ㄉㄤ      dang      dang      dang      dang      tang
 ㄉㄥ      deng      deng      deng      deng      têng
+(ㄉㄦ)    der       de        de        de        tê
 ㄉㄧ      di        di        di        di        ti
 ㄉㄧㄝ    dieh      die       die       die       tieh
 ㄉㄧㄠ    diao      diao      diao      diau      tiao
@@ -100,6 +101,7 @@
 ㄊㄢ      tan       tan       tan       tan       t'an
 ㄊㄤ      tang      tang      tang      tang      t'ang
 ㄊㄥ      teng      teng      teng      teng      t'êng
+(ㄊㄦ)    ter       te        te        te        t'ê
 ㄊㄧ      ti        ti        ti        ti        t'i
 ㄊㄧㄝ    tieh      tie       tie       tie       t'ieh
 ㄊㄧㄠ    tiao      tiao      tiao      tiau      t'iao
@@ -122,6 +124,7 @@
 ㄋㄣ      nen       nen       nen       nen       nên
 ㄋㄤ      nang      nang      nang      nang      nang
 ㄋㄥ      neng      neng      neng      neng      nêng
+(ㄋㄦ)    ner       ne        ne        ne        nê
 ㄋㄧ      ni        ni        ni        ni        ni
 ㄋㄧㄝ    nieh      nie       nie       nie       nieh
 ㄋㄧㄠ    niao      niao      niao      niau      niao
@@ -148,6 +151,7 @@
 ㄌㄢ      lan       lan       lan       lan       lan
 ㄌㄤ      lang      lang      lang      lang      lang
 ㄌㄥ      leng      leng      leng      leng      lêng
+(ㄌㄦ)    ler       le        le        le        lê
 ㄌㄧ      li        li        li        li        li
 ㄌㄧㄚ    lia       lia       lia       lia       lia
 ㄌㄧㄝ    lieh      lie       lie       lie       lieh
@@ -176,6 +180,7 @@
 ㄍㄣ      gen       gen       gen       gen       kên
 ㄍㄤ      gang      gang      gang      gang      kang
 ㄍㄥ      geng      geng      geng      geng      kêng
+(ㄍㄦ)    ger       ge        ge        ge        kê
 ㄍㄨ      gu        gu        gu        gu        ku
 ㄍㄨㄚ    gua       gua       gua       gua       kua
 ㄍㄨㄛ    guo       guo       guo       guo       kuo
@@ -195,6 +200,7 @@
 ㄎㄣ      ken       ken       ken       ken       k'ên
 ㄎㄤ      kang      kang      kang      kang      k'ang
 ㄎㄥ      keng      keng      keng      keng      k'êng
+(ㄎㄦ)    ker       ke        ke        ke        k'ê
 ㄎㄨ      ku        ku        ku        ku        k'u
 ㄎㄨㄚ    kua       kua       kua       kua       k'ua
 ㄎㄨㄛ    kuo       kuo       kuo       kuo       k'uo
@@ -215,6 +221,7 @@
 ㄏㄣ      hen       hen       hen       hen       hên
 ㄏㄤ      hang      hang      hang      hang      hang
 ㄏㄥ      heng      heng      heng      heng      hêng
+(ㄏㄦ)    her       he        he        he        hê
 ㄏㄨ      hu        hu        hu        hu        hu
 ㄏㄨㄚ    hua       hua       hua       hua       hua
 ㄏㄨㄛ    huo       huo       huo       huo       huo
@@ -281,6 +288,7 @@
 ㄓㄣ      jhen      jhen      zhen      jen       chên
 ㄓㄤ      jhang     jhang     zhang     jang      chang
 ㄓㄥ      jheng     jheng     zheng     jeng      chêng
+(ㄓㄦ)    jher      jhe       zhe       je        chê
 ㄓㄨ      jhu       jhu       zhu       ju        chu
 ㄓㄨㄚ    jhua      jhua      zhua      jua       chua
 ㄓㄨㄛ    jhuo      jhuo      zhuo      juo       cho
@@ -301,7 +309,9 @@
 ㄔㄣ      chen      chen      chen      chen      ch'ên
 ㄔㄤ      chang     chang     chang     chang     ch'ang
 ㄔㄥ      cheng     cheng     cheng     cheng     ch'êng
+(ㄔㄦ)    cher      che       che       che       ch'ê
 ㄔㄨ      chu       chu       chu       chu       ch'u
+ㄔㄨㄚ    chua      chua      chua      chua      ch'ua
 ㄔㄨㄛ    chuo      chuo      chuo      chuo      ch'o
 ㄔㄨㄞ    chuai     chuai     chuai     chuai     ch'uai
 ㄔㄨㄟ    chuei     chuei     chui      chuei     ch'ui
@@ -321,6 +331,7 @@
 ㄕㄣ      shen      shen      shen      shen      shên
 ㄕㄤ      shang     shang     shang     shang     shang
 ㄕㄥ      sheng     sheng     sheng     sheng     shêng
+(ㄕㄦ)    sher      she       she       she       shê
 ㄕㄨ      shu       shu       shu       shu       shu
 ㄕㄨㄚ    shua      shua      shua      shua      shua
 ㄕㄨㄛ    shuo      shuo      shuo      shuo      shuo
@@ -338,6 +349,7 @@
 ㄖㄣ      ren       ren       ren       ren       jên
 ㄖㄤ      rang      rang      rang      rang      jang
 ㄖㄥ      reng      reng      reng      reng      jêng
+(ㄖㄦ)    rer       re        re        re        jê
 ㄖㄨ      ru        ru        ru        ru        ju
 ㄖㄨㄛ    ruo       ruo       ruo       ruo       jo
 ㄖㄨㄟ    ruei      ruei      rui       ruei      jui
@@ -356,6 +368,7 @@
 ㄗㄣ      zen       zen       zen       tzen      tsên
 ㄗㄤ      zang      zang      zang      tzang     tsang
 ㄗㄥ      zeng      zeng      zeng      tzeng     tsêng
+(ㄗㄦ)    zer       ze        ze        tze       tsê
 ㄗㄨ      zu        zu        zu        tzu       tsu
 ㄗㄨㄛ    zuo       zuo       zuo       tzuo      tso
 ㄗㄨㄟ    zuei      zuei      zui       tzuei     tsui
@@ -373,6 +386,7 @@
 ㄘㄣ      tsen      cen       cen       tsen      ts'ên
 ㄘㄤ      tsang     cang      cang      tsang     ts'ang
 ㄘㄥ      tseng     ceng      ceng      tseng     ts'êng
+(ㄘㄦ)    tser      ce        ce        tse       ts'ê
 ㄘㄨ      tsu       cu        cu        tsu       ts'u
 ㄘㄨㄛ    tsuo      cuo       cuo       tsuo      ts'o
 ㄘㄨㄟ    tsuei     cuei      cui       tsuei     ts'ui
@@ -390,6 +404,7 @@
 ㄙㄣ      sen       sen       sen       sen       sên
 ㄙㄤ      sang      sang      sang      sang      sang
 ㄙㄥ      seng      seng      seng      seng      sêng
+(ㄙㄦ)    ser       se        se        se        sê
 ㄙㄨ      su        su        su        su        su
 ㄙㄨㄛ    suo       suo       suo       suo       so
 ㄙㄨㄟ    suei      suei      sui       suei      sui
