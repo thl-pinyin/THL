@@ -312,7 +312,7 @@
 (ㄔㄦ)    cher      che       che       che       ch'ê
 ㄔㄨ      chu       chu       chu       chu       ch'u
 ㄔㄨㄚ    chua      chua      chua      chua      ch'ua
-ㄔㄨㄛ    chuo      chuo      chuo      chuo      ch'o
+ㄔㄨㄛ    chuo      chuo      chuo      chuo      ch'uo
 ㄔㄨㄞ    chuai     chuai     chuai     chuai     ch'uai
 ㄔㄨㄟ    chuei     chuei     chui      chuei     ch'ui
 ㄔㄨㄢ    chuan     chuan     chuan     chuan     ch'uan
