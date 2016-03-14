@@ -291,7 +291,7 @@
 (ㄓㄦ)    jher      jhe       zhe       je        chê
 ㄓㄨ      jhu       jhu       zhu       ju        chu
 ㄓㄨㄚ    jhua      jhua      zhua      jua       chua
-ㄓㄨㄛ    jhuo      jhuo      zhuo      juo       cho
+ㄓㄨㄛ    jhuo      jhuo      zhuo      juo       chuo
 ㄓㄨㄞ    jhuai     jhuai     zhuai     juai      chuai
 ㄓㄨㄟ    jhuei     jhuei     zhui      juei      chui
 ㄓㄨㄢ    jhuan     jhuan     zhuan     juan      chuan
