@@ -137,13 +137,13 @@
 
 ### 4.2.1 [必要] 「聲調符號」表示法，如表 4A 所示
 <div class="ui basic segment">
-    <table class="ui celled five column collapsing table">
+    <table class="ui celled five column collapsing unstackable tone table">
         <thead><tr>
-            <th>一聲(陰平)</th>
-            <th>二聲(陽平)</th>
-            <th>三聲(上聲)</th>
-            <th>四聲(去聲)</th>
-            <th>輕聲(輕聲)</th>
+            <th>一聲<span class="detail">(陰平)</span></th>
+            <th>二聲<span class="detail">(陽平)</span></th>
+            <th>三聲<span class="detail">(上聲)</span></th>
+            <th>四聲<span class="detail">(去聲)</span></th>
+            <th>輕聲<span class="detail">(輕聲)</span></th>
         </tr></thead>
         <tbody><tr>
             <td>(不標)</td>
@@ -159,7 +159,7 @@
 </div>
 
 ### 4.2.2 [必要] 以「聲調符號」標示時，一聲不需標示，二至四聲置於單字最後一個母音上方，輕聲置於最後母音之下方
-* 為避免混亂以及配合即有字元，聲調符號置於小寫 i 上方時 (即二至四聲)，i上方的點會由聲調符號所取代。
+* 為避免混亂以及配合既有字元，聲調符號置於小寫 i 上方時 (即二至四聲)，i上方的點會由聲調符號所取代。
 * 例：臺 灣 華 語 羅 馬 拼 音
     - (v) taí wan huá yǔ luó mǎ pin yin
 * 例：知 道 了
@@ -173,13 +173,13 @@
 
 ### 4.3.1 [必要] 「阿拉伯數字」表示法，如表 4B 所示
 <div class="ui basic segment">
-    <table class="ui celled five column collapsing table">
+    <table class="ui celled five column collapsing unstackable tone table">
         <thead><tr>
-            <th>一聲(陰平)</th>
-            <th>二聲(陽平)</th>
-            <th>三聲(上聲)</th>
-            <th>四聲(去聲)</th>
-            <th>輕聲(輕聲)</th>
+            <th>一聲<span class="detail">(陰平)</span></th>
+            <th>二聲<span class="detail">(陽平)</span></th>
+            <th>三聲<span class="detail">(上聲)</span></th>
+            <th>四聲<span class="detail">(去聲)</span></th>
+            <th>輕聲<span class="detail">(輕聲)</span></th>
         </tr></thead>
         <tbody><tr>
             <td>1</td>
@@ -205,12 +205,48 @@
     - (x) jhih1dao4le5
 
 
-# 5 補充字及既有字
+# 5 補充字
 
-## 5.1 補充字定義
+## 5.1 定義
 
-### 5.1.1 [必要] 同一字有不同念法，標準注音拼音無法表達出來時，用「補充字」輔助 
+### 5.1.1 [必要] 當一個字另有非標準注音拼音可表達之慣用念法時，以「補充字」表示
+* 相對於「補充字」，原有的念法為「既有字」
 
-### 5.1.2 [建議] 預設「補充字」
+### 5.1.2 [必要] 補充字具有獨立之注音(非標準)及羅馬拼音
+* 類似破音字，同一個漢字具有多重念法
 
-## 5.2 補充字清單，如表 5A 所示
+* 例：風 (ㄈㄥ)
+    - (?) 既有字： feng (ㄈㄥ)
+    - (?) 補充字： fong (ㄈㄨㄥ)
+
+### 5.1.3 [建議] 補充字使用之非標準注音拼音係用於理解念法，需要標示漢字之注音拼音時還是以標準注音拼音為主
+
+* 例：朋友 péng yoǔ (ㄆㄥˊ ㄧㄡˇ)
+* 例：硼砂 póng sha (ㄆㄥˊ ㄕㄚ)
+    
+## 5.2 對照表
+
+### 5.2.1 [必要] 即有字及補充字之對應，如表 5A 所示
+
+<div id="table-5a"></div>
+
+## 5.3 應用
+
+### 5.3.1 [建議] 以下慣用之念法之羅馬拼音，預設以「補充字」表示
+* 繃 (ㄅㄥ)
+    - (-) beng
+    - (v) bong
+
+* 抨 (ㄆㄥ)
+    - (-) peng
+    - (v) pong
+
+* 矇 (ㄇㄥ)
+    - (-) meng
+    - (v) mong
+
+* 鋒 (ㄈㄥ)
+    - (-) feng
+    - (v) fong
+
+### 5.3.1 [參考] 此為台灣華語使用，若將來延伸出其他華語羅馬拼音方案時，亦可配合各地需求整理出補充字
