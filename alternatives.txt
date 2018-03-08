@@ -28,7 +28,7 @@
 ㄓㄨㄧ jhui  <=>  ㄓㄨㄟ jhuei
 ㄔㄨㄧ chui  <=>  ㄔㄨㄟ chuei
 ㄕㄨㄧ shui  <=>  ㄕㄨㄟ shuei
-ㄖㄨㄧ rhui  <=>  ㄖㄨㄟ ruei
+ㄖㄨㄧ rui  <=>  ㄖㄨㄟ ruei
 ㄗㄨㄧ zui   <=>  ㄗㄨㄟ zuei
 ㄘㄨㄧ tsui  <=>  ㄘㄨㄟ tsuei
 ㄙㄨㄧ sui   <=>  ㄙㄨㄟ suei
