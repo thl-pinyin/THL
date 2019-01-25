@@ -169,7 +169,7 @@
 ㄌㄨㄥ    long      long      long      lung      lung
 ㄌㄩ      lyu       lyu       lü        liu       lü
 ㄌㄩㄝ    lyueh     lyue      lüe       liue      lüeh
-ㄌㄩㄢ    lyuan     lyuan     lüan      liuan     lüen
+ㄌㄩㄢ    lyuan     lyuan     lüan      liuan     lüan
 ㄍㄚ      ga        ga        ga        ga        ka
 ㄍㄜ      ge        ge        ge        ge        kê
 ㄍㄞ      gai       gai       gai       gai       kai
@@ -449,6 +449,6 @@
 (ㄨㄧ)    wui       wei       wei       wei       wei
 ㄩ        yu        yu        yu        yu        yü
 ㄩㄝ      yueh      yue       yue       yue       yüeh
-ㄩㄢ      yuan      yuan      yuan      yuan      yüen
+ㄩㄢ      yuan      yuan      yuan      yuan      yüan
 ㄩㄣ      yun       yun       yun       yun       yün
 ㄩㄥ      yong      yong      yong      yung      yung
