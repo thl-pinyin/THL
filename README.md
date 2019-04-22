@@ -2,7 +2,7 @@
 ================
 
 ### 詳情請參考
-  <http://thl.tw>
+  <https://pinyin.thl.tw>
 
 ### pinyin.txt (拼音對照表)
  * 臺灣華語羅馬拼音

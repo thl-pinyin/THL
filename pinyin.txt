@@ -431,7 +431,7 @@
 ㄧㄝ      yeh       ye        ye        ye        yeh
 ㄧㄞ      yai       yai       yai       yai       yai
 ㄧㄠ      yao       yao       yao       yau       yao
-ㄧㄡ      you       you       you       you       you
+ㄧㄡ      you       you       you       you       yu
 ㄧㄢ      yan       yan       yan       yan       yen
 ㄧㄣ      yin       yin       yin       yin       yin
 ㄧㄤ      yang      yang      yang      yang      yang
